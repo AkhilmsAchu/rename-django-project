@@ -57,8 +57,8 @@ def rename_project(path, old_name, new_name):
 
 def main():
 
-	parser = argparse.ArgumentParser(description='Created by MagicFoxy [GitHub: github.com/MagicFoxy]')
-	parser.add_argument('path', help='Project path [Example: /home/MagicFoxy/RenameDjangoProject/]')
+	parser = argparse.ArgumentParser(description='Created by Wultes [GitHub: github.com/wultes]')
+	parser.add_argument('path', help='Project path [Example: /home/Wultes/RenameDjangoProject/]')
 	parser.add_argument('old_name', help='Old name project')
 	parser.add_argument('new_name', help='New name project')
 
