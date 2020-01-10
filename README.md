@@ -8,7 +8,7 @@ This script makes it easy to change the name of your Django project.
 Clone this repo to your local machine using:
 
 ```bash
-git clone https://github.com/MagicFoxy/rename-django-project
+git clone https://github.com/wultes/rename-django-project
 ```
 
 ## Usage
@@ -21,10 +21,10 @@ To view help:
 ```bash
 $ python rename-django-project.py -h
 
-Created by MagicFoxy [GitHub: github.com/MagicFoxy]
+Created by Wultes [GitHub: github.com/wultes]
 
 positional arguments:
-  path       Project path [Example: /home/MagicFoxy/RenameDjangoProject/]
+  path       Project path [Example: /home/Wultes/RenameDjangoProject/]
   old_name   Old name project
   new_name   New name project
 
@@ -33,5 +33,5 @@ optional arguments:
 ```
 
 ## License
-Copyright © 2020 [MagicFoxy](https://github.com/MagicFoxy/).  
+Copyright © 2020 [Wultes](https://github.com/wultes/).  
 This project using [MIT](https://choosealicense.com/licenses/mit/) license.
