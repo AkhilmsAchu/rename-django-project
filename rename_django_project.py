@@ -59,7 +59,7 @@ def main():
 
 	parser = argparse.ArgumentParser(description='Created by Wultes [GitHub: github.com/wultes]')
 	parser.add_argument('path', help='Project path [Example: /home/Wultes/RenameDjangoProject/]')
-	parser.add_argument('old_name', help='Old name project')
+	parser.add_argument('old_name', help='Old name project !The register must match the original name of the project.')
 	parser.add_argument('new_name', help='New name project')
 
 	args = parser.parse_args()

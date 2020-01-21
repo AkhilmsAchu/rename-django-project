@@ -1,7 +1,9 @@
 
 # Rename-django-project
 
-This script makes it easy to change the name of your Django project.
+This script makes it easy to change the name of your Django project.  
+
+__Tested on Python 3.8 Django 2.8__
 
 ## Clone
 
@@ -25,7 +27,7 @@ Created by Wultes [GitHub: github.com/wultes]
 
 positional arguments:
   path       Project path [Example: /home/Wultes/RenameDjangoProject/]
-  old_name   Old name project
+  old_name   Old name project !The register must match the original name of the project.
   new_name   New name project
 
 optional arguments:
