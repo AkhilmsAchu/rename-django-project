@@ -16,7 +16,7 @@ git clone https://github.com/wultes/rename-django-project
 ## Usage
 
 ```bash
-$ python rename-django-project.py path old name new name
+$ python rename-django-project.py path old_name new_name
 ```
 To view help:
 
